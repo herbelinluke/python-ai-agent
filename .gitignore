@@ -1,3 +1,5 @@
 venv
 .env
 *pycache*
+uv.lock
+.python-version
